@@ -1,6 +1,6 @@
 xkill
 ------------------------------------------
-Xorg X client connection closer
+X.Org X client connection closer
 
 Runtime requirements:
   cygwin-1.5.20-1
