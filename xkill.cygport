@@ -1,0 +1,10 @@
+inherit xorg
+
+NAME="xkill"
+VERSION=1.0.3
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X client connection closer"
+DESCRIPTION="Xkill is a utility for forcing the X server to close connections
+to clients.  This program is very dangerous, but is useful for aborting
+programs that have displayed undesired windows on a user's screen."
